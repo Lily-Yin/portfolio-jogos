@@ -22,7 +22,7 @@ Meu objetivo: transformar ideias em **experiências jogáveis** e desafiadoras.
 
 ### 🧟 Zombie Survival Prototype
 <p align="center">
-  <img src="link-do-gif-do-jogo" alt="Zombie Survival GIF" width="60%">
+  <img src=https://github.com/user-attachments/assets/3165b7f1-49cc-46aa-ba05-940d94f38590 alt="Zombie Survival GIF" width="60%">
 </p>
 - Protótipo de jogo de sobrevivência com **inventário, crafting e hordas de zumbis**.  
 - **Tecnologias:** Unity + C#  
