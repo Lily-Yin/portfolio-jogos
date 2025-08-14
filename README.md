@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://github.com/user-attachments/assets/f4455a5d-ec62-47e0-a738-acb6ee543295 alt="Banner Apocalipse Zumbi" width="100%">
+  <img src=https://github.com/user-attachments/assets/93c437f6-c863-4cdc-b432-6f35bca56acd alt="Banner Apocalipse Zumbi" width="100%">
 </p>
 
 # 🧟‍♂️ Sobrevivente de Jogos de Zumbis | Dev & Designer de Games 🎮
