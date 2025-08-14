@@ -45,6 +45,12 @@ Meu objetivo: transformar ideias em **experiências jogáveis** e desafiadoras.
 
 ---
 
+<p align="center">
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/a8e44680-fbe3-4306-93bf-85cb117669c3" />
+</p>
+
+---
+
 ## 🕹️ Meus Jogos Favoritos
 - Resident Evil Series 🧟‍♀️  
 - DayZ ☠️  
