@@ -30,7 +30,7 @@ Meu objetivo: transformar ideias em **experiências jogáveis** e desafiadoras.
 
 ### 🌍 Post-Apocalyptic Map Generator
 <p align="center">
-  <img src="link-do-gif-do-mapa" alt="Map Generator GIF" width="60%">
+  <img src=https://github.com/user-attachments/assets/0de3846a-19a8-449d-a7f4-a7ee291a9fe6 alt="Map Generator GIF" width="30%">
 </p>
 - Gerador procedural de mapas pós-apocalípticos para survival games.  
 - **Tecnologias:** Python, Perlin Noise  
