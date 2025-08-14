@@ -38,7 +38,7 @@ Meu objetivo: transformar ideias em **experiências jogáveis** e desafiadoras.
 
 ### 🎨 Game Assets Pack
 <p align="center">
-  <img src="link-do-gif-assets" alt="Assets GIF" width="60%">
+  <img src=https://github.com/user-attachments/assets/cd19a940-170f-4731-9bf9-e4fd1681b8c4 alt="Assets GIF" width="60%">
 </p>
 - Conjunto de **sprites, modelos 3D e animações** para jogos de zumbis.  
 - **Ferramentas:** Blender, Photoshop, Aseprite  
