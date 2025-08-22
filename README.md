@@ -4,7 +4,7 @@
 
 # 🧟‍♂️ Sobrevivente de Jogos de Zumbis | Dev & Designer de Games 🎮
 
-Olá, eu sou **[Seu Nome]**, criador de mundos pós-apocalípticos e sistemas de sobrevivência.  
+Olá, eu sou a **Lily-Yin**, criador de mundos pós-apocalípticos e sistemas de sobrevivência.  
 Meu objetivo: transformar ideias em **experiências jogáveis** e desafiadoras.  
 
 ---
